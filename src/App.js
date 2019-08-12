@@ -18,7 +18,7 @@ function App() {
         >
           Learn React
         </a>
-        <a>SELAMLAR gunry </a>
+        <a>SELAMLAR YAPRAAM </a>
       </header>
     </div>
   );
